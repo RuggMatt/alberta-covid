@@ -2,7 +2,7 @@
 
 This is a data collection of various data of interest related to CoViD-19 in Alberta. It includes active, recovered, and total cases of the disease, as well as total deaths caused by it. It also includes the geographical distribution of cases, broken down by region per day. 
 
-An interactive dashboard to explore the data is available at https://covid.mattschlosser.me.
+An interactive dashboard to explore the data is available at https://covid.ruggmatt.dev.
 You can select a region and see the active/total/recovered/deaths for each region. 
 
 Data is automatically updated daily, provided the Government of Alberta's dashboard updates on time (usually around 3:35 pm)
